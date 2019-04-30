@@ -1,0 +1,15 @@
+  Git是目前世界上最先进的分布式版本控制系统。
+
+使用过程一直在百度，，，下面是百度时，觉得比较有参考价值的文章
+
+参考的链接，搞不定的时候去看看，谢谢前人大佬些的辛勤奉献：
+
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000
+
+http://blog.csdn.net/jiaoyaning1210/article/details/51131425
+
+http://blog.csdn.net/kazeik/article/details/9113891
+
+http://www.runoob.com/w3cnote/git-guide.html
+
+ 
